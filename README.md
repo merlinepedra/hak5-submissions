@@ -1,12 +1,14 @@
 # hak5-submissions
 
-- ...
-- ...
-- ...
+- Bash Bunny
+- Key Croc
+- O.MG
+- Shark Jack
+- USB Rubber Ducky
 
 ## Description
 
-...
+HAK5 INDUSTRY LEADING PENTEST GEAR SINCE 2005
 
 ## Payloads
 
