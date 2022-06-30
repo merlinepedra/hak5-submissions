@@ -6,6 +6,8 @@
 - Shark Jack
 - USB Rubber Ducky
 
+![tw-d leaderboard](./readme_files/leaderboard.png "tw-d leaderboard")
+
 ## Description
 
 HAK5 INDUSTRY LEADING PENTEST GEAR SINCE 2005
