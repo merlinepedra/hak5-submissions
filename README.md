@@ -16,43 +16,43 @@
 
 ![bash_bunny-credentials](./readme_files/bash_bunny/credentials.png "bash_bunny-credentials")
 
-[win_problemstepsrecorder](./bashbunny-payloads/credentials/win_problemstepsrecorder/)
+["Microsoft Windows" Problem Steps Recorder](./bashbunny-payloads/credentials/win_problemstepsrecorder/)
 
-[win_sslkeylog](./bashbunny-payloads/credentials/win_sslkeylog/)
+["Microsoft Windows" SSLKEYLOG](./bashbunny-payloads/credentials/win_sslkeylog/)
 
 #### Execution
 
 ![bash_bunny-execution](./readme_files/bash_bunny/execution.png "bash_bunny-execution")
 
-[Get-System](./bashbunny-payloads/execution/Get-System/)
+[Get System Account](./bashbunny-payloads/execution/Get-System/)
 
-[PwnKit_LPE](./bashbunny-payloads/execution/PwnKit_LPE/)
+[PwnKit Vulnerability - Local Privilege Escalation](./bashbunny-payloads/execution/PwnKit_LPE/)
 
-[PwnKit_LPE_Compiled](./bashbunny-payloads/execution/PwnKit_LPE_Compiled/)
+[PwnKit Vulnerability - Local Privilege Escalation - Compiled](./bashbunny-payloads/execution/PwnKit_LPE_Compiled/)
 
 #### Exfiltration
 
 ![bash_bunny-exfiltration](./readme_files/bash_bunny/exfiltration.png "bash_bunny-exfiltration")
 
-[SanDisk-Wireless-Stick_Exfiltration](./bashbunny-payloads/exfiltration/SanDisk-Wireless-Stick_Exfiltration/)
+[Files Exfiltration with "SanDisk Wireless Stick"](./bashbunny-payloads/exfiltration/SanDisk-Wireless-Stick_Exfiltration/)
 
 #### Phishing
 
 ![bash_bunny-phishing](./readme_files/bash_bunny/phishing.png "bash_bunny-phishing")
 
-[fake-sudo](./bashbunny-payloads/phishing/fake-sudo/)
+[Fake sudo](./bashbunny-payloads/phishing/fake-sudo/)
 
-[windows10_fakelogonscreen](./bashbunny-payloads/phishing/windows10_fakelogonscreen/)
+["Microsoft Windows 10" Fake Logon Screen](./bashbunny-payloads/phishing/windows10_fakelogonscreen/)
 
-[windows_browser-in-the-browser](./bashbunny-payloads/phishing/windows_browser-in-the-browser/)
+["Microsoft Windows" Browser in the Browser (BitB)](./bashbunny-payloads/phishing/windows_browser-in-the-browser/)
 
 #### Remote Access
 
 ![bash_bunny-remote_access](./readme_files/bash_bunny/remote_access.png "bash_bunny-remote_access")
 
-[win_smb-backdoor](./bashbunny-payloads/remote_access/win_smb-backdoor/)
+["Microsoft Windows" SMB Backdoor](./bashbunny-payloads/remote_access/win_smb-backdoor/)
 
-[win_winrm-backdoor](./bashbunny-payloads/remote_access/win_winrm-backdoor/)
+["Microsoft Windows" WinRM Backdoor](./bashbunny-payloads/remote_access/win_winrm-backdoor/)
 
 ### Key Croc
 
