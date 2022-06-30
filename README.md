@@ -60,9 +60,9 @@
 
 ![key_croc-recon](./readme_files/key_croc/recon.png "key_croc-recon")
 
-[nmap_recon](./keycroc-payloads/recon/nmap_recon/)
+[Nmap Recon](./keycroc-payloads/recon/nmap_recon/)
 
-[wireless_recon](./keycroc-payloads/recon/wireless_recon/)
+[Wireless Recon](./keycroc-payloads/recon/wireless_recon/)
 
 ### O.MG
 
@@ -70,7 +70,7 @@
 
 ![omg-remote_access](./readme_files/omg/remote_access.png "omg-remote_access")
 
-[win_smb-backdoor](./omg-payloads/remote_access/win_smb-backdoor/)
+["Microsoft Windows" SMB Backdoor](./omg-payloads/remote_access/win_smb-backdoor/)
 
 ### Shark Jack
 
@@ -78,7 +78,7 @@
 
 ![shark_jack-remote_access](./readme_files/shark_jack/remote_access.png "shark_jack-remote_access")
 
-[On-Site%20Implant](./sharkjack-payloads/remote_access/On-Site%20Implant/)
+[On-Site Implant](./sharkjack-payloads/remote_access/On-Site%20Implant/)
 
 ### USB Rubber Ducky
 
@@ -86,4 +86,4 @@
 
 ![usb_rubber_ducky-remote_access](./readme_files/usb_rubber_ducky/remote_access.png "usb_rubber_ducky-remote_access")
 
-[win_winrm-backdoor](./usbrubberducky-payloads/remote_access/win_winrm-backdoor/)
+["Microsoft Windows" WinRM Backdoor](./usbrubberducky-payloads/remote_access/win_winrm-backdoor/)
