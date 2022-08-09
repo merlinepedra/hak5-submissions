@@ -92,4 +92,6 @@ HAK5 INDUSTRY LEADING PENTEST GEAR SINCE 2005
 
 ![usb_rubber_ducky-remote_access](./readme_files/usb_rubber_ducky/remote_access.png "usb_rubber_ducky-remote_access")
 
+["Microsoft Windows" SMB Backdoor](./usbrubberducky-payloads/remote_access/win_smb-backdoor/)
+
 ["Microsoft Windows" WinRM Backdoor](./usbrubberducky-payloads/remote_access/win_winrm-backdoor/)
