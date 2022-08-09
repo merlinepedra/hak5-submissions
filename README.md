@@ -76,6 +76,8 @@ HAK5 INDUSTRY LEADING PENTEST GEAR SINCE 2005
 
 ["Microsoft Windows" SMB Backdoor](./omg-payloads/remote_access/win_smb-backdoor/)
 
+["Microsoft Windows" WinRM Backdoor](./omg-payloads/remote_access/win_winrm-backdoor/)
+
 ### Shark Jack
 
 #### Remote Access
